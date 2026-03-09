@@ -4,9 +4,9 @@ Le robot et les branchements internes sont fournis. La plateforme est nucleo stm
 <img src="robot_fourni.jpg" width="200">
 <br>
 
-Écran tactile TFT, 2 moteur DC servo Maxon 110960, 2 encodeurs, amplificateurs opérationnels, lien sériel USART (bluetooth, terminal, écran), mémoire FLASH, ponts H, cpateur à effet Hall, circuit de commande MOSFET, transistors, moteur à pas 
+Écran tactile TFT, 2 moteur DC servo Maxon 110960, 2 encodeurs, amplificateurs opérationnels, lien sériel USART (bluetooth, terminal, écran), mémoire FLASH, ponts H, capteur à effet Hall, circuit de commande MOSFET, transistors, moteur à pas 
 
-Tous les projets sont programmés avec un code en temps réel. Pour le premier, une partie utilisait les registre sans utiliser la librairie HAL
+Tous les projets sont programmés avec un code en temps réel. Pour le premier, une partie utilisait les registres sans utiliser la librairie HAL
 
 Projet 1 - Alarme de voiture à activation différée (aucun vidéo associé) <br>
 Détection au toucher d'une petite voiture de style hot wheels;
