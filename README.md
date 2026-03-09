@@ -2,6 +2,7 @@ Projets pour le cours de mécatronique appliquée à l'automne 2025.
 
 Le robot et les branchemnsts internes sont fournis. La plateforme est nucleo stm32 f446re, programmé en C.
 (![Robot fourni](robot_fourni.jpg))
+<img src=robot_fourni.jpg width="48">
 
 Écran tactile TFT, 2 moteur DC servo Maxon 110960, 2 encodeurs, amplificateurs opérationnels, lien sériel USART (bluetooth, terminal, écran), mémoire FLASH, ponts H, cpateur à effet Hall, circuit de commande MOSFET, transistors, moteur à pas 
 
