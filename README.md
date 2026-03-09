@@ -1,5 +1,12 @@
 Projets pour le cours de mécatronique appliquée à l'automne 2025.
 
+Le robot et les branchemnsts internes sont fournis. La plateforme est nucleo stm32 f446re, programmé en C.
+(![Robot fourni](robot_fourni.jpg))
+
+Écran tactile TFT, 2 moteur DC servo Maxon 110960, 2 encodeurs, amplificateurs opérationnels, lien sériel USART (bluetooth, terminal, écran), mémoire FLASH, ponts H, cpateur à effet Hall, circuit de commande MOSFET, transistors, moteur à pas 
+
+Tous les projets sont programmés avec un code en temps réel. Pour le premier, une partie utilisait les registre sans utiliser la librairie HAL
+
 Projet 1 - Alarme de voiture à activation différée (aucun vidéo associé)
 Détection au toucher d'une petite voiture de style hot wheels;
 L'alarme se déclenche lors de 2 touchers consécutifs à l'intérieur de 10 secondes, et affiche un message à l'écran.
