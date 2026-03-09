@@ -29,7 +29,7 @@ Pige au hasard d'une cible finale;
 La cible est envoyée au robot (bluetooth) et celui-ci doit y aller, faire une rotation de 180 degré au dessus, et revenir pointer la cible de départ;
 La seule commande envoyée est le numéro de la cible.
 
-Projet final - Transpalette (![vidéo mecatro_final](mecatro_final.mp4))
+Projet final - Transpalette (![vidéo mecatro_final](mecatro_final.mp4)) \n
 Doit éviter un robot qui suit un parcours prédéterminé;
 Les 3 palettes peuvent être à 2 positions différentes sur chaque coins, inconnues du robot au départ;
 Le robot peut s'orienter avec les bandes noires, 3 capteurs de proximité et un PID vitesse/position avec encodeur sur chaque roue;
